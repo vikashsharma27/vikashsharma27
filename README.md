@@ -27,14 +27,9 @@
 
 ## 📊 Featured Projects
 
-### 🔹 [Air Pollution Detection System](https://github.com/yourusername/air-pollution-detection)
-IoT + Data Analytics project using NodeMCU ESP8266, MQ135, and DHT11 sensors.  
-- 📡 Real-time data sent to Blynk IoT App  
-- 📈 Data visualization & alert generation  
 
 ### 🔹 [Smart Crime Management & Predictive Analysis](https://github.com/yourusername/crime-prediction)
 - 🧠 Machine learning model predicting future crime rates  
-- 🗃️ MySQL backend with Flask API  
 - 📊 Tkinter GUI + Matplotlib for charts  
 
 ### 🔹 [Power BI IPL Dashboard](https://github.com/yourusername/ipl-dashboard)
@@ -52,7 +47,7 @@ IoT + Data Analytics project using NodeMCU ESP8266, MQ135, and DHT11 sensors.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vikash-kumar-sharma-56855b286/))
 [![Kaggle](https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourusername.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
