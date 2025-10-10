@@ -47,7 +47,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vikash-kumar-sharma-56855b286/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://linkedin.com/in/yourprofile]](https://www.linkedin.com/in/vikash-kumar-sharma-56855b286/))
 [![Kaggle](https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourusername.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
