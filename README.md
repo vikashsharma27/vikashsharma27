@@ -32,9 +32,12 @@
 - 🧠 Machine learning model predicting future crime rates  
 - 📊 Tkinter GUI + Matplotlib for charts  
 
-### 🔹 [Power BI IPL Dashboard](https://github.com/yourusername/ipl-dashboard)
-- 🏏 Interactive Power BI dashboard analyzing IPL team stats & player performance  
-- 🔗 Data sourced from [cricketdata.org](https://cricketdata.org)
+###  🔹 🌦 Weather Dashboard
+- 🌍 Dynamic Power BI dashboard providing real-time weather forecasts, air quality insights, and environmental metrics for multiple cities.
+- 📊 Built using Power BI Desktop, Power Query, and DAX for data modeling, visualization, and calculations.
+- 🔗 Data sourced from: OpenWeatherMap API
+- 🌤 Displays key metrics such as temperature, humidity, wind speed, AQI, sunrise/sunset times, and rain probability through interactive visuals.
+- 🧠 Helps users monitor climate patterns and make environment-aware decisions in real time.
 
 ---
 
