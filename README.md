@@ -5,7 +5,7 @@
 
 ## 🔍 About Me
 - 💡 Passionate about uncovering insights from data and driving data-driven decisions.  
-- 🎓 [Your Degree, e.g., B.Tech in Computer Science / Data Science]  
+- 🎓  B.Tech in Computer Science / Data Analytics
 - 🧰 Skilled in **Python, Pandas, NumPy, Power BI, Tableau, Excel and SQL**.  
 - 🚀 Currently working on: “Criminal Data Management Software”]  
 - 📚 Learning advanced **data storytelling** and **predictive analytics** techniques.
