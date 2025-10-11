@@ -7,7 +7,7 @@
 - 💡 Passionate about uncovering insights from data and driving data-driven decisions.  
 - 🎓  B.Tech in Computer Science / Data Analytics
 - 🧰 Skilled in **Python, Pandas, NumPy, Power BI, Tableau, Excel and SQL**.  
-- 🚀 Currently working on: “Criminal Data Management Software”]  
+- 🚀 Currently working on: “Criminal Data Management Software”
 - 📚 Learning advanced **data storytelling** and **predictive analytics** techniques.
 
 ---
@@ -41,16 +41,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-kumar-sharma-56855b286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-kumar-sharma-56855b286)
 [![Kaggle](https://img.shields.io/badge/Kaggle-grey?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourusername.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
@@ -58,4 +52,3 @@
 
 ---
 
-⭐ _“Data is the new oil — refine it well and it powers everything.”_  
