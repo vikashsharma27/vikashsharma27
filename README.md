@@ -46,7 +46,7 @@
 - Created comprehensive visualizations using Matplotlib for crime trend analysis
 - Implemented data preprocessing and feature engineering techniques
 
-### 🔹 [Weather Dashboard](https://github.com/yourusername/weather-dashboard)
+### 🔹 [Weather Dashboard](https://github.com/vikashsharma27/weather-dashboard)
 - *🌍 Dynamic Power BI dashboard* providing real-time weather forecasts and environmental metrics
 - *📊 Built using* Power BI Desktop, Power Query, and DAX for data modeling and visualization
 - *🔗 Data sourced from* OpenWeatherMap API with automated data refresh capabilities
